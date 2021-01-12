@@ -1,0 +1,10 @@
+.Rbutton{
+
+    width:90%;
+    align:center;
+    height:30px;
+    box-shadow: 0 1px 3px rgba(32, 25, 25, 0.25) inset, 0 1px 0 rgba(255, 255, 255, 1);
+    border-radius: 5px;
+
+    margin:30% 5% 5%;
+}
